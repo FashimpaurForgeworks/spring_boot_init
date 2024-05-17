@@ -3,7 +3,7 @@ Example of a Java Project initialized in Spring Boot
 
 ## Forking
 
-When forking this repository it is highly advised to add HELP.md to the .gitignore file and not replicate it.
+When forking this repository it is highly advised to add [HELP.md](./HELP.md) to the .gitignore file and not replicate it.
 
 ## Configuration
 
@@ -24,4 +24,6 @@ spring:
     username: [replace_with_db_username]
     password: [replace_with_dp_password]
 ```
+
+This can be included in your properties YAML file [application.yml](src/main/resources/application.yml) See Line 5.
 
