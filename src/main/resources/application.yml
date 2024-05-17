@@ -1,0 +1,22 @@
+spring:
+    application:
+        name: spring_boot_init
+    config:
+        import: optional:secrets.yml
+    jpa:
+        hibernate:
+            ddl-auto: update
+        properties:
+            jakarta:
+                persistence:
+                    validation:
+                        mode: none
+    mvc:
+        hiddenmethod:
+            filter:
+                enabled: true
+    # security:
+    #     oauth2:
+    #       resourceserver:
+    #         jwt:
+    #           issuer-uri: http://localhost:8080/api/oauth2/issuer
