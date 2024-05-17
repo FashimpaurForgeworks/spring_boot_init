@@ -1,6 +1,10 @@
 # spring_boot_init
 Example of a Java Project initialized in Spring Boot
 
+## Forking
+
+When forking this repository it is highly advised to add HELP.md to the .gitignore file and not replicate it.
+
 ## Configuration
 
 ### Database
