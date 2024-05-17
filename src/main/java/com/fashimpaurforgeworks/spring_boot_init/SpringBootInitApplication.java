@@ -1,4 +1,4 @@
-package org.fashimpaurforgeworks.spring_boot_init;
+package com.fashimpaurforgeworks.spring_boot_init;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

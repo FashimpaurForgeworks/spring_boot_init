@@ -8,7 +8,7 @@
         <version>3.2.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.fashimpaurforgeworks</groupId>
+    <groupId>com.fashimpaurforgeworks</groupId>
     <artifactId>spring_boot_init</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>demo</name>

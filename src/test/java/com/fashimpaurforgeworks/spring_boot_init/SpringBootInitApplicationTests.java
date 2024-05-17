@@ -1,4 +1,4 @@
-package org.fashimpaurforgeworks.spring_boot_init;
+package com.fashimpaurforgeworks.spring_boot_init;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
